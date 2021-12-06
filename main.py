@@ -19,7 +19,7 @@ from sshtunnel import SSHTunnelForwarder
 username = ""
 password = ""
 
-ssh_host = '1sshIp'
+ssh_host = 'sshIp'
 ssh_username = 'pi'
 ssh_password = 'sshPasswd'
 database_username = 'adUsername'
