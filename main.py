@@ -19,12 +19,12 @@ from sshtunnel import SSHTunnelForwarder
 username = ""
 password = ""
 
-ssh_host = '192.168.1.64'
+ssh_host = '1sshIp'
 ssh_username = 'pi'
-ssh_password = 'gm13112001'
-database_username = 'remoteUser'
-database_password = 'gm13112001'
-database_name = 'test'
+ssh_password = 'sshPasswd'
+database_username = 'adUsername'
+database_password = 'dbPasswd'
+database_name = 'dbName'
 localhost = '127.0.0.1'
 global tunnel
 global connection
